@@ -57,7 +57,7 @@
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-
+> https://www.researchgate.net/publication/368918670_Evaluation_of_the_effectiveness_of_ML_algorithms_by_forecasting_bank_stock_prices_in_Kazakhstan
 
 
 
